@@ -13,3 +13,7 @@ The dataset, I choose to work on is a dataset about video games set and their ra
 ## Objective
 
 In this project, I will deal only with exploratory analysis i.e. the objective is to understand how the data about video games sales are distributed and generate insight for future decision-making. This analysis aims to explore as much as possible the data in a simple, intuitive and informative way.
+
+## Presentation
+
+https://docs.google.com/presentation/d/19TC2OweC41JFUBuSqRsw6tnvg40pURFUFVlNvsKi5Tw/edit?usp=sharing
